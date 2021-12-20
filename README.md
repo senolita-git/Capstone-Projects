@@ -1,2 +1,2 @@
 # Capstone-Projects
-Capstone projects notebooks covers D topics
+Capstone projects notebooks cover Data Science topics
