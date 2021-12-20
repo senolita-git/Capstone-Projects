@@ -1,2 +1,2 @@
 # Capstone-Projects
-Capstone projects notebooks covers DS topics
+Capstone projects notebooks covers D topics
